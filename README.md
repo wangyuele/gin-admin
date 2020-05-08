@@ -119,9 +119,9 @@ wire gen ./internal/app/initialize
 ```
 
 ## TODO
- -reconfig API
- -APIJSON Integration
- -LDAP Integration
+- reconfig API
+- APIJSON Integration
+- LDAP Integration
 
 ## Router
  ```
