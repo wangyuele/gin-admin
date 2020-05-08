@@ -8,9 +8,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/LyricTian/gin-admin/internal/app/config"
-	"github.com/LyricTian/gin-admin/internal/app/initialize"
-	"github.com/LyricTian/gin-admin/pkg/logger"
+	"github.com/wangyuele/gin-admin/internal/app/config"
+	"github.com/wangyuele/gin-admin/internal/app/initialize"
+	"github.com/wangyuele/gin-admin/pkg/logger"
 
 	// 引入swagger
 	_ "github.com/LyricTian/gin-admin/internal/app/swagger"
