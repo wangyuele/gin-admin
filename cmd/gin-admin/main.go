@@ -4,9 +4,9 @@ import (
 	"context"
 	"os"
 
-	"github.com/LyricTian/gin-admin/internal/app"
-	"github.com/LyricTian/gin-admin/pkg/logger"
-	"github.com/LyricTian/gin-admin/pkg/util"
+	"github.com/wangyuele/gin-admin/internal/app"
+	"github.com/wangyuele/gin-admin/pkg/logger"
+	"github.com/wangyuele/gin-admin/pkg/util"
 	"github.com/urfave/cli/v2"
 )
 
