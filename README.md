@@ -119,10 +119,11 @@ wire gen ./internal/app/initialize
 ```
 
 ## TODO
- reconfig API
- APIJSON Integration
- LDAP Integration
- ## Router
+ #reconfig API
+ #APIJSON Integration
+ #LDAP Integration
+
+## Router
  ```
 ├── admin
 │   ├── gen_token # 
